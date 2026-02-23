@@ -1,4 +1,4 @@
-
+Click on the link below to test the app.
 
 This contains everything you need to run your app locally.
 
